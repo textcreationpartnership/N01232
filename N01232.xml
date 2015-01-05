@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0FB36A8364AD30D0:001469_0000_0FB35831453ADE00"/>
-            <pb facs="tcp:0FB36A8364AD30D0:001469_0001_0FB35832F4F04EA0"
+            <pb facs="unknown:001469_0000_0FB35831453ADE00"/>
+            <pb facs="unknown:001469_0001_0FB35832F4F04EA0"
                 rendition="simple:additions"/>
             <p>Theopolis Americana.</p>
             <p>AN ESSAY ON THE Golden STREET Of the Holy City: Publishing, A TESTIMONY against the CORRUPTIONS of the Market-Place.</p>
@@ -132,7 +132,7 @@
                <hi>BOSTON:</hi> Printed by <hi>B. Green:</hi> Sold by <hi>Samuel Gerrish</hi> at his Shop. 1710.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:0FB36A8364AD30D0:001469_0002_0FB35835297AF908"/>
+            <pb facs="unknown:001469_0002_0FB35835297AF908"/>
             <head>To the HONOURABLE Judge SEWALL.</head>
             <opener>
                <salute>SIR,</salute>
@@ -146,7 +146,7 @@
                </gap>
                <g ref="char:punc">▪</g> 'Tis for Two Reasons; And if I were on the Rack, I should confess no more.</p>
             <p>First; <hi>I</hi> am sure, You are willing to appear with me, in a <hi>TESTIMONY</hi> against all those <hi>Ways of INIQUI<g ref="char:EOLhyphen"/>TY,</hi> against which my <hi>SERMON</hi> has
-<pb facs="tcp:0FB36A8364AD30D0:001469_0003_0FB35835F115D778"/>
+<pb facs="unknown:001469_0003_0FB35835F115D778"/>
                <hi>Testifyed.</hi> And if this Faithfulness Procure any Obloquy, You will Rejoyce to Share with me in <hi>That,</hi> as well as in the <hi>Consolation.</hi>
             </p>
             <p>Secondly. My Pray'rs and Hopes for <hi>America,</hi> are <hi>Yours;</hi> and I must Acknowledge, that <hi>you</hi> first gave me some of the <hi>Hints,</hi> which my <hi>SER<g ref="char:EOLhyphen"/>MON</hi> brings for the Grounds of them.</p>
@@ -173,7 +173,7 @@
       </front>
       <body>
          <div type="sermon">
-            <pb n="1" facs="tcp:0FB36A8364AD30D0:001469_0004_0FB35839B169B050"/>
+            <pb n="1" facs="unknown:001469_0004_0FB35839B169B050"/>
             <head>Pure Gold IN THE MARKET-PLACE.</head>
             <opener>
                <dateline>
@@ -196,7 +196,7 @@
                   <desc>〈◊〉</desc>
                </gap> O NEW-ENGLAND; <hi>The Inter<g ref="char:EOLhyphen"/>pretation of it,</hi> be unto you, O <hi>American</hi> Colonies.</p>
             <p>The Invitation, sounds Angelically; But my Hearers must have it now gi<g ref="char:EOLhyphen"/>ven them; <hi>Come hither, and I will show you,</hi> an admirable Spectacle! 'Tis an
-<pb n="2" facs="tcp:0FB36A8364AD30D0:001469_0005_0FB3583B490F9C50"/>
+<pb n="2" facs="unknown:001469_0005_0FB3583B490F9C50"/>
 Heavenly CITY, <hi>descending out of Hea<g ref="char:EOLhyphen"/>ven, from</hi> GOD. There is an Hea<g ref="char:EOLhyphen"/>venly CITY, which the Great GOD, has <hi>Prepared</hi> for them, to whom <hi>He will be a God</hi>: A CITY to be inhabited by an <hi>Innumerable Company of Angels,</hi> and by the <hi>Spirits of Iust Men made Perfect</hi> by a Resurrection from the Dead, with JESUS <hi>the Mediator of the New Cove<g ref="char:EOLhyphen"/>nant</hi> shining upon them: A CITY; where <hi>God shall dwell with men, God Him<g ref="char:EOLhyphen"/>self shall be with them,</hi> and we shall <hi>Inhe<g ref="char:EOLhyphen"/>rit all things.</hi> There will be a Time, when that <hi>Holy City,</hi> will be nearer to this <hi>Earth,</hi> than it is at this Day; and the <hi>Saved Nations</hi> of the <hi>Earth</hi> shall af<g ref="char:EOLhyphen"/>ter a wonderful manner <hi>Walk in the Light</hi> thereof. The Thoughts of the Primitive <hi>Christians</hi> and <hi>Chiliasts,</hi> repre<g ref="char:EOLhyphen"/>sented by <gap reason="illegible: blotted" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -210,7 +210,7 @@ Heavenly CITY, <hi>descending out of Hea<g ref="char:EOLhyphen"/>ven, from</hi> 
                </gap> Passages about it, more partic<gap reason="illegible: blotted" extent="4 letters">
                   <desc>••••</desc>
                </gap> in <hi>Tertullian,</hi> are known to them that have Studied the <hi>Mystery of God.</hi> This is not a Time &amp; Place to offer them. And, I Suppose, a great part of the Auditory, are not yet come to the Thoughts, into which I am compelled,
-<pb n="3" facs="tcp:0FB36A8364AD30D0:001469_0006_0FB3583CF9A47840"/>
+<pb n="3" facs="unknown:001469_0006_0FB3583CF9A47840"/>
 on this Noble and Sublime Subject of c<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>templation; and into which, 'tis o<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -291,7 +291,7 @@ on this Noble and Sublime Subject of c<gap reason="illegible" resp="#PDCC" exten
                </gap>hing Fall of Antichrist. We have a world of Reason to Believe, That <hi>the Second Wo is past away</hi>; and that we are entring into the <hi>Sev<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>th
-<pb n="4" facs="tcp:0FB36A8364AD30D0:001469_0007_0FB3583EED864818"/>
+<pb n="4" facs="unknown:001469_0007_0FB3583EED864818"/>
 Day</hi> of the <hi>Romish Iericho,</hi> 
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -364,7 +364,7 @@ Day</hi> of the <hi>Romish Iericho,</hi>
                </gap> out for our pre<g ref="char:EOLhyphen"/>sent Meditation. <hi>The Street o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> the City is Pure Gold.</hi> I concur with <hi>Peganius,</hi> and conceive, That the <hi>Street</hi> here means, and so it
-<pb n="5" facs="tcp:0FB36A8364AD30D0:001469_0008_0FB3584493AD7DA8"/>
+<pb n="5" facs="unknown:001469_0008_0FB3584493AD7DA8"/>
 m<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> be translated, <hi>The <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -501,7 +501,7 @@ m<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   </gap>s<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rve</hi>
-               <pb n="6" facs="tcp:0FB36A8364AD30D0:001469_0009_0FB35845C68213A0"/>
+               <pb n="6" facs="unknown:001469_0009_0FB35845C68213A0"/>
 is, That in a CITY of GOD, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
@@ -544,7 +544,7 @@ is, That in a CITY of GOD, th<gap reason="illegible" resp="#PDCC" extent="1 lett
                   </gap>h, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> in
-<pb n="7" facs="tcp:0FB36A8364AD30D0:001469_0010_0FB358472F55EF68"/>
+<pb n="7" facs="unknown:001469_0010_0FB358472F55EF68"/>
 the Cities th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -581,7 +581,7 @@ the Cities th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap> f<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ll of <hi>Good Men</hi>! Full of <hi>Righteous</hi> &amp; <hi>Holy</hi> Ones. It is but an Easy <hi>Meto<g ref="char:EOLhyphen"/>nymie,</hi>
-               <pb n="8" facs="tcp:0FB36A8364AD30D0:001469_0011_0FB35848B2B47418"/>
+               <pb n="8" facs="unknown:001469_0011_0FB35848B2B47418"/>
 to make the <hi>Street,</hi> signify the <hi>Men</hi> that fill the <hi>Street.</hi> Our <hi>Street</hi> will be Pure <hi>Gold,</hi> when they that walk in it, are those <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> may be called, <hi>The Precious Sons of Zio<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -596,7 +596,7 @@ to make the <hi>Street,</hi> signify the <hi>Men</hi> that fill the <hi>Street.<
                   </gap>sire, are not to be compared unto it.</hi> Of a very Valuable man, we Proverbially say, <hi>He is a man w<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rth his weight in Gold.</hi> It may be said so of every man, that has a Work of <hi>Grace</hi> upon him. Yea, He is <hi>a man more Precious than the Golden wedge of Ophir.</hi> In the mean time, you know what you Read; Psal. 119.119. <hi>Thou puttest away all the Wicked
-<pb n="9" facs="tcp:0FB36A8364AD30D0:001469_0012_0FB3584CF41A6100"/>
+<pb n="9" facs="unknown:001469_0012_0FB3584CF41A6100"/>
 of the Earth like Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ss; therefore I love thy Testimonies.</hi> Oh! will you <hi>therefore Love</hi> that Work of GRACE, to the <hi>Glory</hi> whereof, you have in the Word of God, so many <hi>Testimonies</hi>!</p>
@@ -607,7 +607,7 @@ of the Earth like Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
                <hi>Good</hi> one, in the <hi>Service</hi> of GOD; and make the <hi>Command</hi> of GOD the <hi>Rule</hi> of his Life, and Prize the <hi>Favour</hi> of GOD, as <hi>better than Life.</hi> A <hi>Work,</hi> which disposes a man, to Submit unto the <hi>Will</hi> of GOD in all things; and have his own <hi>Will</hi> Entirely swallow'd
-<pb n="10" facs="tcp:0FB36A8364AD30D0:001469_0013_0FB3584F1382B870"/>
+<pb n="10" facs="unknown:001469_0013_0FB3584F1382B870"/>
 up in the <hi>Will</hi> of GOD; and bear <hi>Af<g ref="char:EOLhyphen"/>flictions</hi> from the <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nd</hi> of GOD, with Patience, with Humility, with Resi<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -630,7 +630,7 @@ up in the <hi>Will</hi> of GOD; and bear <hi>Af<g ref="char:EOLhyphen"/>fliction
                </gap>; Job. 23.10. <hi>When He hath Tried me, I shall come forth as Gold.</hi>
             </p>
             <p>And now; the <hi>Street</hi> of the CITY, is <hi>Pure Gold,</hi> when the <hi>Street</hi>
-               <pb n="11" facs="tcp:0FB36A8364AD30D0:001469_0014_0FB358503201D1A0"/>
+               <pb n="11" facs="unknown:001469_0014_0FB358503201D1A0"/>
 i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> filled with <hi>Regener<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -705,7 +705,7 @@ i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>d in those that are to <hi>Act</hi> for <hi>All the P<gap reason="illegible" resp="#PDCC" extent="3 letters">
                      <desc>•••</desc>
                   </gap>le</hi> A
-<pb n="12" facs="tcp:0FB36A8364AD30D0:001469_0015_0FB35851FB5E6128"/>
+<pb n="12" facs="unknown:001469_0015_0FB35851FB5E6128"/>
 man of Bright Piety is a man of <hi>Goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Metal:</hi> He will study to be a <hi>Bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -735,10 +735,10 @@ man of Bright Piety is a man of <hi>Goo<gap reason="illegible" resp="#PDCC" exte
                   <desc>•</desc>
                </gap>
                <g ref="char:EOLhyphen"/>mand,
-<pb n="13" facs="tcp:0FB36A8364AD30D0:001469_0016_0FB358532E1086B8"/>
+<pb n="13" facs="unknown:001469_0016_0FB358532E1086B8"/>
 that <hi>Plain Dealing</hi> be used, when <hi>Fair-Dealing</hi> is to be insisted on.</p>
             <p>Sirs, NEW-ENGLAND is a Coun<g ref="char:EOLhyphen"/>trey, that has made a more than or<g ref="char:EOLhyphen"/>dinary <hi>Profession</hi> of Religion. Our <hi>Profession</hi> is <hi>Weigh'd</hi> in the <hi>Balances</hi> of GOD. If there be any thing De<g ref="char:EOLhyphen"/>fective, in the <hi>Honesty</hi> of our Dealing with one another, our <hi>Profession</hi> will have a woful MENE TEKEL Writ<g ref="char:EOLhyphen"/>ten upon it. Let a man be never such a Professor and Pretender of <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> if he be not a <hi>Fair-Dealer That Mans Religion is Uain.</hi> A Noise about <hi>Faith</hi> &amp; <hi>Repentance,</hi> among them that forget <hi>Moral Honesty,</hi> tis but an Empty Noise. The men are utter Strangers to <hi>Faith</hi> and <hi>Re<g ref="char:EOLhyphen"/>pentance;</hi> God will <hi>Reject all their Con<g ref="char:EOLhyphen"/>fidences,</hi> of their being, <hi>The People of God,</hi> and they shall <hi>not Prosper in them.</hi> I have a Commission that En<g ref="char:EOLhyphen"/>nables me, and Emboldens me, to say among you; <hi>Wo, Wo, Wo,</hi> to you Professors, and <hi>Hypocrites,</hi> who can make a Show of this and that Piety and <hi>Purity</hi>; but can <hi>Cheat,</hi> and <hi>Cousen,</hi> and <hi>Oppress,</hi> and <hi>Wrong</hi> o<g ref="char:EOLhyphen"/>ther
-<pb n="14" facs="tcp:0FB36A8364AD30D0:001469_0017_0FB35857932AF3B0"/>
+<pb n="14" facs="unknown:001469_0017_0FB35857932AF3B0"/>
 People in your Dealing with them!</p>
             <p>It is true, <gap reason="illegible: missing" extent="1 letter">
                   <desc>•</desc>
@@ -779,7 +779,7 @@ People in your Dealing with them!</p>
                   <gap reason="illegible: faint" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> am ashamed, and I blush, to
-<pb n="15" facs="tcp:0FB36A8364AD30D0:001469_0018_0FB3585931E05F20"/>
+<pb n="15" facs="unknown:001469_0018_0FB3585931E05F20"/>
 lift up my Fac<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> unto thee, my G<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -847,7 +847,7 @@ lift up my Fac<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>ries of the <hi>Market-Pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e.</hi>
-               <pb n="16" facs="tcp:0FB36A8364AD30D0:001469_0019_0FB3585AC2CEB060"/>
+               <pb n="16" facs="unknown:001469_0019_0FB3585AC2CEB060"/>
 B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t I am acquainted with a <hi>Golden Rule,</hi> which, I am sure, would migh<g ref="char:EOLhyphen"/>
@@ -891,7 +891,7 @@ B<gap reason="illegible" resp="#PDCC" extent="1 letter">
             <p>That this <hi>Rule</hi> may have its <hi>Perfect work of Charity,</hi> Remember that Appli<g ref="char:EOLhyphen"/>cation of it; 1 Cor. 10.24. <hi>Let no man se<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>k</hi> (only) <hi>his own, but every man
-<pb n="17" facs="tcp:0FB36A8364AD30D0:001469_0020_0FB3585C35869F18"/>
+<pb n="17" facs="unknown:001469_0020_0FB3585C35869F18"/>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>other<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -922,7 +922,7 @@ B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ess, looks into all my Dealings. Great GOD, Thou art ac<g ref="char:EOLhyphen"/>quainted with all my Ways.</hi> And let your <hi>Dealings</hi> be such, that if they <hi>should</hi> be laid open to all your <hi>Neighbourhood,</hi> you need not be Ashamed of them; Such, that they will bear the <hi>Touch-stone,</hi> of the <hi>Iudgment</hi> which all men of Honour and Vertue and Probity, would pass upon them.</p>
             <p>This were <hi>Pure Gold</hi>! Were this <hi>Golden Rule</hi> generally regarded, there would need no <hi>Laws</hi> to force men to be <hi>Honest;</hi> the <hi>Courts</hi> would have
-<pb n="18" facs="tcp:0FB36A8364AD30D0:001469_0021_0FB3585FCD9F9838"/>
+<pb n="18" facs="unknown:001469_0021_0FB3585FCD9F9838"/>
 but few <hi>Causes</hi> brought unto them. The <hi>Chris<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ians</hi> which often, often <hi>Re<g ref="char:EOLhyphen"/>flect</hi> upon this RULE, and always <hi>Con<g ref="char:EOLhyphen"/>form</hi> unto it, verily, They are <hi>Golden</hi> Ones; God increase the Number of them.</p>
@@ -935,7 +935,7 @@ but few <hi>Causes</hi> brought unto them. The <hi>Chris<gap reason="illegible" 
             <p>For men to <hi>Lye</hi> to one another, in Dealing with one another; <hi>Tis an Abomi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ation!</hi> It was required; Lev.
-<pb n="19" facs="tcp:0FB36A8364AD30D0:001469_0022_0FB3586239F93B78"/>
+<pb n="19" facs="unknown:001469_0022_0FB3586239F93B78"/>
 19.11. <hi>Ye shall not Steal, neith<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>r d<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -983,7 +983,7 @@ but few <hi>Causes</hi> brought unto them. The <hi>Chris<gap reason="illegible" 
                   <desc>•</desc>
                </gap>mane Life, (I say, the <hi>Necessaries</hi>
                <g ref="char:punc">▪</g>
-               <pb n="20" facs="tcp:0FB36A8364AD30D0:001469_0023_0FB35863EBDBA940"/>
+               <pb n="20" facs="unknown:001469_0023_0FB35863EBDBA940"/>
 which I always distinguish from the <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>perfluities,</hi>) at an <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1013,7 +1013,7 @@ which I always distinguish from the <hi>S<gap reason="illegible" resp="#PDCC" ex
                </gap> wish, All my Peo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>le had such a
-<pb n="21" facs="tcp:0FB36A8364AD30D0:001469_0024_0FB358652E491F00"/>
+<pb n="21" facs="unknown:001469_0024_0FB358652E491F00"/>
 sense of some <hi>Other things,</hi> which I am now going to mention.</p>
             <p>But in my way to those <hi>Other Things,</hi> methinks, I am stopped by something like a Dead <hi>Amasa,</hi> lying in the <hi>midst of the High-way</hi> before me.</p>
             <p>I hope, the <hi>Merchant,</hi> uses all possi<g ref="char:EOLhyphen"/>ble Caution, as well as the Lesser Dealers, to keep clear of that Blemish, Hos. 12.7. <hi>He is a Merchant, the Balan<g ref="char:EOLhyphen"/>ces of Deceit are in his hand, he Loves to Oppress.</hi>
@@ -1028,7 +1028,7 @@ sense of some <hi>Other things,</hi> which I am now going to mention.</p>
                <q>To go as <hi>Pirates,</hi> and Catch up poor <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>groes,</hi> or People of another Land, that have never forfeited Life, or Liberty, and to make them <hi>Slaves,</hi>
-                  <pb n="22" facs="tcp:0FB36A8364AD30D0:001469_0025_0FB3586B4CB21F40"/>
+                  <pb n="22" facs="unknown:001469_0025_0FB3586B4CB21F40"/>
 and Sell them, is One of the worst kinds of Thievery in the World; and such Persons are to be taken for the common Enemies of Mankind; and they that buy them, and use them as <hi>Beasts,</hi> for their meer Commodity, and betray, or destroy, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>eglect their Souls, are fitter to be called, <hi>Incar<g ref="char:EOLhyphen"/>nate Devils,</hi> than <hi>Christians,</hi> tho' they be no <hi>Christians</hi> whom they so Abuse.</q>
@@ -1046,14 +1046,14 @@ and Sell them, is One of the worst kinds of Thievery in the World; and such Pers
                   </gap> in them. Those that k<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ep their <hi>Negro's</hi> and Slaves, from Hearing of Gods Word, and from becoming Christians, because, they shall then lose part of their Ser<g ref="char:EOLhyphen"/>vice, do openly profess Rebellion a<g ref="char:EOLhyphen"/>gainst
-<pb n="23" facs="tcp:0FB36A8364AD30D0:001469_0026_0FB3586CC0365240"/>
+<pb n="23" facs="unknown:001469_0026_0FB3586CC0365240"/>
 God, and contempt of Christ the Redeemer of Souls, and a con<g ref="char:EOLhyphen"/>tempt of the Souls of Men, and in<g ref="char:EOLhyphen"/>deed, they declare, that their World<g ref="char:EOLhyphen"/>ly profit, is their Treasure and their God.</q>
             </p>
             <p>
                <hi>Fidelity</hi> to the cause of <hi>Righteousness,</hi> obliges me, to take Notice of One thing more.</p>
             <p>If there be any <hi>English</hi> People, who are concerned with our <hi>Christianized Indians,</hi> but then take advantage of their <hi>Ignorance,</hi> or their <hi>Indigence,</hi> or their unchristian <hi>Love of the Bottel,</hi> to decoy them into their <hi>Debt;</hi> and then use In<g ref="char:EOLhyphen"/>direct and Oppressive wayes, to Exact an <hi>Unreasonable Satisfaction</hi> from them, and <hi>Sell</hi> them for Servants, or <hi>Send</hi> them out of their own Country; This Trade, will be a Reproach to our <hi>Christianity,</hi> and I am sure, it will be <hi>Bitterness in the Latter End.</hi> Certainly, our <hi>Iustices</hi> will concern themselves to Rebuke and Prevent such Doings, lest the Guilt become so <hi>Publick,</hi> as to provoke the Justice of Heaven to Re<g ref="char:EOLhyphen"/>venge it, by <hi>Indian</hi> Depredations.</p>
             <p>The <hi>Third</hi> Thing for which I
-<pb n="24" facs="tcp:0FB36A8364AD30D0:001469_0027_0FB3586E302DCD20"/>
+<pb n="24" facs="unknown:001469_0027_0FB3586E302DCD20"/>
 move, is; That there may not be so much as my <hi>Tendency</hi> to any thing <hi>Oppressive</hi> or <hi>Injurious,</hi> in the <hi>De<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -1088,7 +1088,7 @@ move, is; That there may not be so much as my <hi>Tendency</hi> to any thing <hi
                   <desc>•</desc>
                </gap>he Instant of his Letting out the Money.</p>
             <p>
-               <pb n="25" facs="tcp:0FB36A8364AD30D0:001469_0028_0FB358715AF38170"/>I will go on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="25" facs="unknown:001469_0028_0FB358715AF38170"/>I will go on <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>o say. 'Tis a Thing of an <hi>Evil Te<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1182,7 +1182,7 @@ move, is; That there may not be so much as my <hi>Tendency</hi> to any thing <hi
                </hi>; to Jog on in a blind Conf<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sion, and not know how much they may be <hi>gone back-ward,</hi>
-               <pb n="26" facs="tcp:0FB36A8364AD30D0:001469_0029_0FB3587387A9B738"/>
+               <pb n="26" facs="unknown:001469_0029_0FB3587387A9B738"/>
 or wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>the<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1291,7 +1291,7 @@ or wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap> b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> upon
-<pb n="27" facs="tcp:0FB36A8364AD30D0:001469_0030_0FB35874F8214728"/>
+<pb n="27" facs="unknown:001469_0030_0FB35874F8214728"/>
                <hi>Pur<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Gold:</hi> But then, your <hi>Hand,</hi> a Stranger to it!</p>
@@ -1370,7 +1370,7 @@ or wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>e be taken, that all <hi>Officers</hi> und<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb n="28" facs="tcp:0FB36A8364AD30D0:001469_0031_0FB358766D566260"/>
+               <pb n="28" facs="unknown:001469_0031_0FB358766D566260"/>
 you, may be Restrained from the <hi>Ini<g ref="char:EOLhyphen"/>qui<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>y,</hi> which <hi>y<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1407,7 +1407,7 @@ you, may be Restrained from the <hi>Ini<g ref="char:EOLhyphen"/>qui<gap reason="
                   </gap>sury.</hi> If they have not always b<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>en <hi>Great,</hi> yet you have been careful, as
-<pb n="29" facs="tcp:0FB36A8364AD30D0:001469_0032_0FB35879E51E9810"/>
+<pb n="29" facs="unknown:001469_0032_0FB35879E51E9810"/>
 well a<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> could b<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1435,7 +1435,7 @@ well a<gap reason="illegible" resp="#PDCC" extent="1 letter">
             <p>Could any thing be Proposed fur<g ref="char:EOLhyphen"/>ther, by way of <hi>Reparation,</hi> [Besides the General Day of <hi>Humiliati<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>n,</hi> which was appointed and observed thro' the
-<pb n="30" facs="tcp:0FB36A8364AD30D0:001469_0033_0FB3587BB6FAAD30"/>
+<pb n="30" facs="unknown:001469_0033_0FB3587BB6FAAD30"/>
 Province, to bewayl the Errors of our Dark time, some years ago:] You would be willing to hearken to it.</p>
             <p>I have only this to add. You have Enacted Excellent <hi>Laws</hi> against th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1464,7 +1464,7 @@ Province, to bewayl the Errors of our Dark time, some years ago:] You would be w
                </gap> will see, how I am led into these things, when you have Read; Isa. 1.25, 26. <hi>I wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
-                  <pb n="31" facs="tcp:0FB36A8364AD30D0:001469_0034_0FB3587D8F90B208"/>
+                  <pb n="31" facs="unknown:001469_0034_0FB3587D8F90B208"/>
 t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rn my hand upon thee, and Pure<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1540,7 +1540,7 @@ t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap> into the <hi>Lake of Sodom.</hi>
             </p>
             <p>
-               <pb n="32" facs="tcp:0FB36A8364AD30D0:001469_0035_0FB3587EDC643BF8"/>In the <hi>Wall</hi> of the <hi>Holy Cit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="32" facs="unknown:001469_0035_0FB3587EDC643BF8"/>In the <hi>Wall</hi> of the <hi>Holy Cit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>,</hi> we find <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -1668,14 +1668,14 @@ t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>igh'd against the Sottish Vice of <hi>Swearing</hi>: His Hearers asked him, When <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>e would have done with his Invectives;
-<pb n="33" facs="tcp:0FB36A8364AD30D0:001469_0036_0FB35882CD5F81F8"/>
+<pb n="33" facs="unknown:001469_0036_0FB35882CD5F81F8"/>
 He answered, <hi>When you have done Swear<g ref="char:EOLhyphen"/>ing.</hi> In my Importunities for a <hi>Street</hi> of <hi>Pure Gold,</hi> if I am asked, When I will have done with my <hi>Blows</hi> upon the <hi>Bottel</hi>! My Answer is, <hi>When I see it broken</hi>; When I see, tis univer<g ref="char:EOLhyphen"/>sally counted a <hi>Shameful</hi> thing to be too <hi>free</hi> with it; When I see People take it, only <hi>When,</hi> and <hi>As,</hi> it may be useful to them.</p>
             <p>I don't move, to have the <hi>Use</hi> of it Banished; but the <hi>Abuse</hi> and <hi>Excess</hi> of it. And I most importunately move, That all <hi>Sober People</hi> throughout the Land, would set themselves to think, <hi>What may be done, to have Rum used with more of Moderation?</hi>
             </p>
             <p>The <hi>French</hi> and the <hi>Indians</hi> have sore<g ref="char:EOLhyphen"/>ly Scourged us; but let it not be thought a <hi>Paradox,</hi> That one of the <hi>Sorest Punishments,</hi> which ever did or ever can befall this poor Country, is the <hi>Great Esteem, which this Liquor has among us.</hi> It makes us <hi>Poor;</hi> It keeps us <hi>Poor;</hi> whole <hi>Families</hi> may curse the Day, that ever the <hi>Bottel</hi> came into them. It will soon make us a <hi>D<gap reason="illegible: faint" extent="1 letter">
                      <desc>•</desc>
                   </gap>spica<g ref="char:EOLhyphen"/>ble Country.</hi> All our <hi>Strength</hi> will be
-<pb n="34" facs="tcp:0FB36A8364AD30D0:001469_0037_0FB35886240A22A0"/>
+<pb n="34" facs="unknown:001469_0037_0FB35886240A22A0"/>
 departed from us. Ah, NEW-ENG<g ref="char:EOLhyphen"/>LAND; Thy <hi>Street</hi> will not be <hi>Pure Gold;</hi> No, 'twill be a filthy <hi>Pud<g ref="char:EOLhyphen"/>dle,</hi> a nasty <hi>Kennel.</hi> Yea, the <hi>Wild-beasts of the Desert</hi> will dwell here; thy <hi>Houses</hi> will be <hi>full of doleful Creatu<gap reason="illegible: faint" extent="4 letters">
                      <desc>••••</desc>
                   </gap>.</hi>
@@ -1683,7 +1683,7 @@ departed from us. Ah, NEW-ENG<g ref="char:EOLhyphen"/>LAND; Thy <hi>Street</hi> 
             <p>Instead of Propounding <hi>Laws,</hi> to retrench a Mischief, not easy to come at<g ref="char:punc">▪</g> My Proposal is; That this One <hi>Observation</hi> may be Spred thro' the Country, and awfully consi<g ref="char:EOLhyphen"/>dered of. Tho' this Liquor may be <hi>Useful,</hi> at some time, &amp; in some things, yet <hi>no Man that uses it con<g ref="char:EOLhyphen"/>stantly will ever be Good for very much.</hi> It will infallibly <hi>Stunt</hi> his Abilities; He will discharge no <hi>Office,</hi> as he ought to do; It will <hi>Besot</hi> him, or, at least very much <hi>Flatten</hi> him, and make him very little better, than a meer <hi>Good for nothing.</hi> Take him from the <hi>Bottel,</hi> for the STATE, or for the CHURCH, or for the FIELD, <gap reason="illegible: faint" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> be a <hi>Poor Tool;</hi> God will do little by him; hee'l never be <hi>Ex<g ref="char:EOLhyphen"/>cellent.</hi> When a man stands a <hi>Candi<g ref="char:EOLhyphen"/>date</hi> for any <hi>Preferment,</hi> I move, <hi>That it may be known, whether he be a Friend of
-<pb n="35" facs="tcp:0FB36A8364AD30D0:001469_0038_0FB35887C8486068"/>
+<pb n="35" facs="unknown:001469_0038_0FB35887C8486068"/>
 the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>hat any one <hi>Habituated</hi> unto the use of the <hi>Bottel,</hi> ever is <hi>Recovered</hi> from it; The Depraved <hi>Stomach</hi> will crave and <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1717,7 +1717,7 @@ the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known
                   </gap>et.</hi>
             </p>
             <p>
-               <pb n="36" facs="tcp:0FB36A8364AD30D0:001469_0039_0FB358893382A928"/>You must not wonder, to see the Flame, in which I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="36" facs="unknown:001469_0039_0FB358893382A928"/>You must not wonder, to see the Flame, in which I <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>all upon you. The dreadful, the dreadful Dispensations of God, have brought us into fear<g ref="char:EOLhyphen"/>ful Apprehensions, How far this Coun<g ref="char:EOLhyphen"/>try may come to be ravaged by <hi>Po<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1765,7 +1765,7 @@ the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>LDERS
-<pb n="37" facs="tcp:0FB36A8364AD30D0:001469_0040_0FB3588E535493F0"/>
+<pb n="37" facs="unknown:001469_0040_0FB3588E535493F0"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>f the <hi>Churc<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1903,7 +1903,7 @@ the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known
                   <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
-                  <pb n="38" facs="tcp:0FB36A8364AD30D0:001469_0041_0FB3588FF1B203F0"/>
+                  <pb n="38" facs="unknown:001469_0041_0FB3588FF1B203F0"/>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>nto all men: W<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2027,7 +2027,7 @@ the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known
                </gap>t has <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>een hitherto,
-<pb n="39" facs="tcp:0FB36A8364AD30D0:001469_0042_0FB358919482A7F8"/>
+<pb n="39" facs="unknown:001469_0042_0FB358919482A7F8"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> still there may be, no <hi>D ct<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2116,7 +2116,7 @@ the Bottel, or no?</hi> That which adds to the Horror, is; Tis very Seldom known
                   <desc>〈◊〉</desc>
                </gap>
                <g ref="char:punc">▪</g>
-               <pb n="40" facs="tcp:0FB36A8364AD30D0:001469_0043_0FB35893B36EA810"/>
+               <pb n="40" facs="unknown:001469_0043_0FB35893B36EA810"/>
 Where we have a <hi>Platform</hi> le<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>t us, that is according to the Word of our Glo<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2208,7 +2208,7 @@ Where we have a <hi>Platform</hi> le<gap reason="illegible" resp="#PDCC" extent=
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>
-               <pb n="41" facs="tcp:0FB36A8364AD30D0:001469_0044_0FB3589B63413138"/>
+               <pb n="41" facs="unknown:001469_0044_0FB3589B63413138"/>
 for the <hi>Rhetorick</hi> of the Passage; and yet say, The <hi>Golden Work</hi> of God in these His Churches, if we may <hi>Mend</hi> any p<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>t, in which we should go on to more of the <hi>Ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2308,7 +2308,7 @@ for the <hi>Rhetorick</hi> of the Passage; and yet say, The <hi>Golden Work</hi>
                   </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> LORD will do great things.</hi>
-               <pb n="42" facs="tcp:0FB36A8364AD30D0:001469_0045_0FB3589DC1C3B4B8"/>
+               <pb n="42" facs="unknown:001469_0045_0FB3589DC1C3B4B8"/>
 God will make our <hi>En<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>mies</hi> to be fou<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2332,7 +2332,7 @@ God will make our <hi>En<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </gap>; But without and beyond the Ocean, there was a <hi>great Island,</hi> as big as <hi>They.</hi> And in that Other World, there was an huge CITY, called, <gap reason="foreign">
                   <desc>〈 in non-Latin alphabet 〉</desc>
                </gap>, <hi>The Godly City.</hi> In that <hi>City,</hi> Sayes
-<pb n="43" facs="tcp:0FB36A8364AD30D0:001469_0046_0FB3589F08582B60"/>
+<pb n="43" facs="unknown:001469_0046_0FB3589F08582B60"/>
 h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>, they enjoy all Possible <hi>Pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2395,7 +2395,7 @@ h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>g the Nations.</hi> Has it not been promi<g ref="char:EOLhyphen"/>sed unto our Great Saviour? Psal. 2.8.
-<pb n="44" facs="tcp:0FB36A8364AD30D0:001469_0047_0FB358A12F748B58"/>
+<pb n="44" facs="unknown:001469_0047_0FB358A12F748B58"/>
                <hi>I will give th<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>e the uttermost parts of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2545,7 +2545,7 @@ h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>and
-<pb n="45" facs="tcp:0FB36A8364AD30D0:001469_0048_0FB358A372E47528"/>
+<pb n="45" facs="unknown:001469_0048_0FB358A372E47528"/>
 in these Countries, as well as in the <hi>European.</hi> There have been <hi>Mar<g ref="char:EOLhyphen"/>tyrs</hi> of CHRIST in <hi>America.</hi> The Blood of the <hi>Martyrs</hi> here, is an Omen that the Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ths for which they Suffer<g ref="char:EOLhyphen"/>ed are to Rise, and Live, and carry all before them, in the Land that has been so <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2579,7 +2579,7 @@ in these Countries, as well as in the <hi>European.</hi> There have been <hi>Mar
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nd <hi>Glories,</hi>
-               <pb n="46" facs="tcp:0FB36A8364AD30D0:001469_0049_0FB358A6936BDCE0"/>
+               <pb n="46" facs="unknown:001469_0049_0FB358A6936BDCE0"/>
 and the <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2648,7 +2648,7 @@ and the <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>re.</hi> I will believe, that in this ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>
-               <pb n="47" facs="tcp:0FB36A8364AD30D0:001469_0050_0FB358A992A37818"/>
+               <pb n="47" facs="unknown:001469_0050_0FB358A992A37818"/>
                <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>tion,</hi> there was a <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2670,7 +2670,7 @@ and the <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   </gap>,</hi> to the Western Ocean, and the Penin<g ref="char:EOLhyphen"/>sula of <hi>Italy;</hi> all which are almost wholly Encompassed with the <hi>Sea,</hi> and mighty Rivers. I conceive, we are now entring into the Dispensation of the <hi>Seven Vials;</hi> One of the Fir<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb n="48" facs="tcp:0FB36A8364AD30D0:001469_0051_0FB358ABC1A7B8A8"/>
+               <pb n="48" facs="unknown:001469_0051_0FB358ABC1A7B8A8"/>
 whereof, is <hi>Poured out upon the Sea, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> it becomes as the Blood of a Dead Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2756,7 +2756,7 @@ whereof, is <hi>Poured out upon the Sea, <gap reason="illegible" resp="#PDCC" ex
                      <desc>•</desc>
                   </gap>
                </hi> People, and the <hi>Teachers</hi> and <hi>Rulers</hi> of the <hi>Reformed World</hi> in the other <hi>Hemisphere,</hi> to leave <hi>America</hi> unvisited. It will be impos<g ref="char:EOLhyphen"/>sible for a People, so inspired from
-<pb n="49" facs="tcp:0FB36A8364AD30D0:001469_0052_0FB358AD33174CC8"/>
+<pb n="49" facs="unknown:001469_0052_0FB358AD33174CC8"/>
 Heaven<g ref="char:punc">▪</g> for the Propagation of t<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ue Christianity as will then be the <hi>Stars</hi> of that <hi>Hemisphere,</hi> to be unconcerned about <hi>America,</hi> and <hi>all the Ends of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2827,7 +2827,7 @@ Heaven<g ref="char:punc">▪</g> for the Propagation of t<gap reason="illegible"
                   <desc>••</desc>
                </gap>
                <g ref="char:EOLhyphen"/>sing, and Purifying, and Enlightening
-<pb n="50" facs="tcp:0FB36A8364AD30D0:001469_0053_0FB358AED5EE6140"/>
+<pb n="50" facs="unknown:001469_0053_0FB358AED5EE6140"/>
 of them; can you think, that <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> shall be nothing but <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ery Places and Marishes, given to Salt?</hi> By no means. O wide <hi>Atlantick,</hi> Thou <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -2864,7 +2864,7 @@ of them; can you think, that <hi>Ameri<g ref="char:EOLhyphen"/>ca,</hi> shall be
                   </gap>ty of the Lord of Hosts, in the City of our <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>od:
-<pb n="51" facs="tcp:0FB36A8364AD30D0:001469_0054_0FB358B31DF1B9C8"/>
+<pb n="51" facs="unknown:001469_0054_0FB358B31DF1B9C8"/>
 GOD wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>l <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2955,7 +2955,7 @@ GOD wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                </hi>; or the Maritim parts of <hi>E<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>rope</hi>; Especially<g ref="char:punc">▪</g>
-               <pb facs="tcp:0FB36A8364AD30D0:001469_0055_0FB358B4037FDFC0"/>
+               <pb facs="unknown:001469_0055_0FB358B4037FDFC0"/>
                <hi>Port<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3102,7 +3102,7 @@ GOD wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>••</desc>
                </gap>
                <g ref="char:punc">▪</g> in which
-<pb facs="tcp:0FB36A8364AD30D0:001469_0056_0FB358B822F635E8"/>
+<pb facs="unknown:001469_0056_0FB358B822F635E8"/>
 the <hi>Two Wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>esses</hi> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
